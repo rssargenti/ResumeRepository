@@ -52,9 +52,9 @@ public class JdbcSQLServerConnection {
 
         try {
 
-            String dbURL = "jdbc:sqlserver://192.168.1.157:12001;";
-            String user = "sa";
-            String pass = "PH@123456789";
+            String dbURL = "CHANGE";
+            String user = "CHANGE";
+            String pass = "CHANGE";
             conn = DriverManager.getConnection(dbURL, user, pass);
             if (conn != null) {
                 System.out.println("Connection Successful.\n");
