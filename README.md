@@ -8,3 +8,5 @@ The coding projects I have included are:
 JDBCConnection: Java program for accessing an SQL server. Tested with Northwinds2020TSQLV6 Database and a personal docker container.
 
 SQL: Several SQL Queries requesting different sets of data.
+
+cs-355-FP: Node.js (Javascript) server that makes 3LO authenticated API requests.
